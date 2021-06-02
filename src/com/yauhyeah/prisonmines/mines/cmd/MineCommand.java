@@ -33,7 +33,7 @@ public class MineCommand extends Command {
 				return false;
 			}
 		}
-		if (sender.hasPermission("paradox.admin")) {
+		if (sender.hasPermission("prisonmines.admin")) {
 			if (sender instanceof Player) {
 				Player p = (Player) sender;
 				if (args.length == 2) {
