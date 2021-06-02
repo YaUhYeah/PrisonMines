@@ -1,0 +1,6 @@
+name: PrisonMines
+api: ["1.0.5"]
+author: YaUhYeah
+main: com.yauhyeah.prisonmines.Main
+version: "1.2"
+depend: ["PlaceholderAPI", "PrisonRankups"]
